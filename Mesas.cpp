@@ -5,7 +5,7 @@
 #include<fstream>
 using namespace std;
 
-// ++++++++++++MESAS+++++++++++++++ 
+// ++++++++++++MESAS+++++++++++++++++++++++++++ 
 
 void uno(),dos(),tres(),cuatro(),cinco(),ver();
 char var[30];   
